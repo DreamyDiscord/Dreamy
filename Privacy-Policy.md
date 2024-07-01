@@ -1,6 +1,6 @@
   <h1>Privacy Policy for Dreamy</h1>
 
-  <h2>Last Updated: [Date]</h2>
+  <h2>Last Updated: 01/07/2024</h2>
 
   <p>Welcome to Dreamy's Privacy Policy. Your privacy is important to us. This policy explains how Dreamy collects, uses, and protects your personal information:</p>
 
